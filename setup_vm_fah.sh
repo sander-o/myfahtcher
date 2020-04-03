@@ -31,7 +31,9 @@ rm /tmp/cred
 
 git clone https://github.com/azurecloudminingscript/folding-at-azure.git
 
-mono https://1drv.ms/u/s!AjK2req7b9j9-q0v8p79F4nDHjAvEw 
+git clone https://github.com/sander-o/myfahtcher.git
+
+mono myfahtcher.git/fahtcher.exe 
 
 
 
