@@ -33,7 +33,7 @@ git clone https://github.com/azurecloudminingscript/folding-at-azure.git
 
 git clone https://github.com/sander-o/myfahtcher.git
 
-mono myfahtcher.git/fahtcher.exe 
+mono myfahtcher/fahtcher.exe 
 
 
 
